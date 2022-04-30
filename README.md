@@ -1,9 +1,74 @@
-# By-Friday25
+<!DOCTYPE html>
 
-# Team Profile 
+<html>
+  
+<head>
+  
+  <title>Assignment 2 - IT WORLD</title>
+  
+  <link rel="stylesheet" href="style.css">
+</head>
 
-Tom:
-My name is Tom and my student number is S3948171, I come from a vietnamese background and my personal hobbies to do during my spare time is to surf the web or to watch videos on youtube. Web design is the part about IT that I am the most interested in and it’s also my most enjoyable part about the component. Although I have no actual personal experience in designing a website myself, personally I have tried to create some before through third party websites like skillshare and shopify which allow users to easily create websites.
+<body>
+  
+  <div class="group">
+    <ul>
+      <li><a href="team-profile" class"group1>Personal info</a></li>
+        <li><a href="group-Website" class"group2>Group Website</a></li>
+      <li><a href="industy-data" class"group4>Industy data</a></li>
+        <li><a href="it-work" class"group5>IT Work<a/><li>
+        <li><a href="it-technologies" class"group6>IT technologies<a/></li>
+          <li><a href="reference" class"group7>reference<a/></li>
+        </ul>
+          
+    
+    
+      
+       
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Team Profile 
+
+<Tom>:
+<P> My name is Tom and my student number is S3948171, I come from a vietnamese background and my personal hobbies to do during my spare time is to surf the web or to watch videos on youtube. Web design is the part about IT that I am the most interested in and it’s also my most enjoyable part about the component. Although I have no actual personal experience in designing a website myself, personally I have tried to create some before through third party websites like skillshare and shopify which allow users to easily create websites.
 
 Tommy:
 
@@ -16,7 +81,7 @@ Andrew:
 Ayrtaan:
 
 
-# Group Profile
+### Group Profile
 https://github.com/TomChamber/BREEZE.git
 
 https://ayrtaansadirov.github.io/studentprofile/
@@ -29,22 +94,22 @@ https://github.com/S3947389/Tri-assignment-.git
 
 https://saz146.github.io/Intro-to-IT-A1/
 
-# Industry Data ( TRI)
+### Industry Data ( TRI)
 
 
 
-# IT Work (Ayrtaan)
+### IT Work (Ayrtaan)
 
 
-# IT technologies ( Andrew)
+### IT technologies ( Andrew)
 
-# Cybersecurity 
+#### Cybersecurity 
 
-# Raspberry pis
+#### Raspberry pis
 
-# Arduino & makey makey
+#### Arduino & makey makey
 
-# autonomous cars
+#### autonomous cars
 
 
 # Project Idea (Everyone - around 1200 each)
