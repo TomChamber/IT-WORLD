@@ -49,18 +49,18 @@
    <div class="team-profile">
    <h2>Team Profile</h2>
                             
-<Tom:>
-<P> My name is Tom and my student number is S3948171, I come from a vietnamese background and my personal hobbies to do during my spare time is to surf the web or to watch videos on youtube. Web design is the part about IT that I am the most interested in and it’s also my most enjoyable part about the component. Although I have no actual personal experience in designing a website myself, personally I have tried to create some before through third party websites like skillshare and shopify which allow users to easily create websites.
+<Tom>
+<P> My name is Tom and my student number is S3948171, I come from a vietnamese background and my personal hobbies to do during my spare time is to surf the web or to watch videos on youtube. Web design is the part about IT that I am the most interested in and it’s also my most enjoyable part about the component. Although I have no actual personal experience in designing a website myself, personally I have tried to create some before through third party websites like skillshare and shopify which allow users to easily create websites.</p>
                             
-<Tommy:>
+<Tommy>
 
-<Tri:>
+<Tri>
 
-<Sahan:>
+<Sahan>
 
-<Andrew:>
+<Andrew>
 
-<Ayrtaan:>
+<Ayrtaan>
 
 <p> For our project we have decided as a group that we are gonna be creating a food app that allow people to locate resturanrt around there area. </p>
     </div>
@@ -70,9 +70,10 @@
 
 
 ### Group Profile
-https://github.com/TomChamber/BREEZE.git
+                            
+                            <p><a href="https://github.com/TomChamber/BREEZE.git">CLICK here</a></p>
 
-https://ayrtaansadirov.github.io/studentprofile/
+https://ayrtaansadirov.github.io/studentprofile
 
 https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/
 
@@ -81,6 +82,7 @@ https://aandrewtraan.github.io/Assignment-1/
 https://github.com/S3947389/Tri-assignment-.git
 
 https://saz146.github.io/Intro-to-IT-A1/
+                            
 
 ### Industry Data ( TRI)
 
@@ -118,49 +120,7 @@ https://saz146.github.io/Intro-to-IT-A1/
 
 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TomChamber/IT-WORLD-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TomChamber/IT-WORLD-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-
-
-
-
+#
 
 
 
