@@ -3,7 +3,7 @@
 <html>
   
 <head>
-  <title>Assignment 2 - It World</title>
+  <title> Assignment 2 - It World </title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -11,36 +11,48 @@
   
   <div class="group">
     <ul>
-      <li><a href="team-profile" class"group1>Team Profile</a></li>
-      <li><a href="group-Website" class"group2>Group Website</a></li>
-      <li><a href="industy-data" class"group3>Industy Data</a></li>
-      <li><a href="it-work" class"group4>IT Work<a/><li>
-      <li><a href="it-technologies" class"group5>IT Technologies<a/></li>
+      <li><a href="team-profile"class"group1>Team Profile</a></li>
+      <li><a href="group-Website"class"group2>Group Website</a></li>
+      <li><a href="industy-data"class"group3>Industy Data</a></li>
+      <li><a href="it-work"class"group4>IT Work<a/><li>
+      <li><a href="it-technologies"class"group5>IT Technologies<a/></li>
       <li><a href="reference" class"group6>Reference<a/></li>
-        </ul>
+      </ul>
       </div>
     <header>
           <div class="name>
                       <h1> Team Firday</h1>
                       </div>
                       <div class="details">
-               <p> 
-                      Student ID:s3946048
-    <br>
-    Email: s3946048@student.rmit.edu.au
-               <p>                     
-                      Student ID:    
-               <p>                
-                      Student ID:  
-               <p>                         
-                      Student ID:
-               <p>                       
-                      Student ID:
-               <p>                      
-                      Student ID:                                 
-    <br>
-    Email: s3946048@student.rmit.edu.au
-     </p>
+      <p>
+      Student ID: s3946048
+      <br> Email: s3946048@student.rmit.edu.au
+                                          </p>
+      <p> 
+      Student ID: s3943554
+      <br>
+      Email: s3943554@student.rmit.edu.au
+                                          </p>
+                                          <p> 
+      Student ID: s3947389
+      <br>
+      Email: s3947389@student.rmit.edu.au
+                                          </p>
+                                          <p> 
+      Student ID: s3943294
+      <br>
+      Email: s3943294@student.rmit.edu.au
+                                          </p>
+                                          <p> 
+      Student ID: s3948171 
+      <br>
+      Email: s3948171 @student.rmit.edu.au
+                                          </p>
+                                          <p> 
+      Student ID: 
+      <br>
+      Email: @student.rmit.edu.au
+                                          </p>
    </div>
  </header>
                                           
@@ -73,26 +85,41 @@
 <a id="group-website"></a>
 <h2> Group Website</h2>
 <ul>
-  <li>
-   <Tom>
+ <li>
+ <Tom>
  <a href="https://github.com/TomChamber/BREEZE.git" target"_blank">https://github.com/TomChamber/BREEZE.git</a>
-  </li>
+ </li>
                                                                   
 <li>
- <Aytraan>                                                              
+<Aytraan>                                                              
 <a href="https://ayrtaansadirov.github.io/studentprofile" target"_blank>https://ayrtaansadirov.github.io/studentprofile</a>
-      </li>
-
-https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/
-
-https://aandrewtraan.github.io/Assignment-1/
-
-https://github.com/S3947389/Tri-assignment-.git
-
-https://saz146.github.io/Intro-to-IT-A1/
+ </li>
+    
+<li>
+<Andrew>                                                              
+<a href="https://aandrewtraan.github.io/Assignment-1/" target"_blank>hhttps://aandrewtraan.github.io/Assignment-1/</a>
+</li>
+                                                                 
+<li>
+ <Sahan>                                                              
+<a href="https://saz146.github.io/Intro-to-IT-A1/" target"_blank>https://saz146.github.io/Intro-to-IT-A1/</a>
+</li>
+  
+<li>
+<Tri>                                                              
+<a href="https://github.com/S3947389/Tri-assignment-.git" target"_blank>https://github.com/S3947389/Tri-assignment-.git</a>
+</li>
+<li>
+                                                                 
+<Tommy>                                                              
+<a href="https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/" target"_blank>https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/</a>
+</li>
+  </div>
                             
 
 ### Industry Data ( TRI)
+<a
+
 
 
 
@@ -100,6 +127,7 @@ https://saz146.github.io/Intro-to-IT-A1/
 
 
 ### IT technologies ( Andrew)
+  
 
 #### Cybersecurity 
 
@@ -112,6 +140,7 @@ https://saz146.github.io/Intro-to-IT-A1/
 
 # Project Idea (Everyone - around 1200 each)
 
+### refernce 
 
 
 
@@ -128,7 +157,7 @@ https://saz146.github.io/Intro-to-IT-A1/
 
 
 
-#
+
 
 
 
