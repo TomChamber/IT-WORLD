@@ -117,16 +117,25 @@
   </div>
                             
 
-### Industry Data ( TRI)
-<a
+<div class="Industry-Data"
+     <a id="Industy-Data"'></a>
+  <h2>Industry Data</h2>
+  
 
 
 
 
-### IT Work (Ayrtaan)
+
+  <div class="IT Work"
+     <a id="IT Work"'></a>
+  <h2>IT Work</h2>
 
 
-### IT technologies ( Andrew)
+
+
+<div class="IT technologies"
+     <a id="IT technologies"'></a>
+  <h2>IT technologies</h2>
   
 
 #### Cybersecurity 
@@ -138,9 +147,15 @@
 #### autonomous cars
 
 
-# Project Idea (Everyone - around 1200 each)
 
-### refernce 
+<div class="Project Idea"
+     <a id="Project Idea"'></a>
+  <h2>Project Idea</h2>
+
+
+<div class="refernce"
+     <a id="refernce"'></a>
+  <h2>refernce</h2>
 
 
 
