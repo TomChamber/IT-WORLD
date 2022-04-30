@@ -3,10 +3,7 @@
 <html>
   
 <head>
-  
-  <title> Assignment 2 - IT WORLD</title>
-  
-  
+  <title>Assignment 2 - It World</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -51,65 +48,25 @@
    <a id="team-profile"></a>
    <div class="team-profile">
    <h2>Team Profile</h2>
-    <p> For our project we have decided as a group that we are gonna be creating a food app that allow people to locate resturanrt around there area. </p>
+                            
+<Tom:>
+<P> My name is Tom and my student number is S3948171, I come from a vietnamese background and my personal hobbies to do during my spare time is to surf the web or to watch videos on youtube. Web design is the part about IT that I am the most interested in and it’s also my most enjoyable part about the component. Although I have no actual personal experience in designing a website myself, personally I have tried to create some before through third party websites like skillshare and shopify which allow users to easily create websites.
+                            
+<Tommy:>
+
+<Tri:>
+
+<Sahan:>
+
+<Andrew:>
+
+<Ayrtaan:>
+
+<p> For our project we have decided as a group that we are gonna be creating a food app that allow people to locate resturanrt around there area. </p>
     </div>
     
       
-       
-     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Team Profile 
-
-<Tom>:
-<P> My name is Tom and my student number is S3948171, I come from a vietnamese background and my personal hobbies to do during my spare time is to surf the web or to watch videos on youtube. Web design is the part about IT that I am the most interested in and it’s also my most enjoyable part about the component. Although I have no actual personal experience in designing a website myself, personally I have tried to create some before through third party websites like skillshare and shopify which allow users to easily create websites.
-
-Tommy:
-
-Tri:
-
-Sahan:
-
-Andrew:
-
-Ayrtaan:
 
 
 ### Group Profile
