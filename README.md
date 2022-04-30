@@ -4,7 +4,8 @@
   
 <head>
   
-  <title>Assignment 2 - IT WORLD</title>
+  <title> Assignment 2 - IT WORLD</title>
+  
   
   <link rel="stylesheet" href="style.css">
 </head>
@@ -20,8 +21,37 @@
       <li><a href="it-technologies" class"group5>IT Technologies<a/></li>
       <li><a href="reference" class"group6>Reference<a/></li>
         </ul>
-          
-    
+      </div>
+    <header>
+          <div class="name>
+                      <h1> Team Firday</h1>
+                      </div>
+                      <div class="details">
+               <p> 
+                      Student ID:s3946048
+    <br>
+    Email: s3946048@student.rmit.edu.au
+               <p>                     
+                      Student ID:    
+               <p>                
+                      Student ID:  
+               <p>                         
+                      Student ID:
+               <p>                       
+                      Student ID:
+               <p>                      
+                      Student ID:                                 
+    <br>
+    Email: s3946048@student.rmit.edu.au
+     </p>
+   </div>
+ </header>
+                                          
+   <main>
+   <a id="team-profile"></a>
+   <div class="team-profile">
+   <h2>Team Profile</h2>
+    <p> For our project we have decided as a group that we are gonna be creating a food app that allow people to locate resturanrt around there area 
     
       
        
