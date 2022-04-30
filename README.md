@@ -69,11 +69,19 @@
 
 
 
-### Group Profile
-                            
-                            <p><a href="https://github.com/TomChamber/BREEZE.git">CLICK here</a></p>
-
-https://ayrtaansadirov.github.io/studentprofile
+<div class="group-Website">
+<a id="group-website"></a>
+<h2> Group Website</h2>
+<ul>
+  <li>
+   <Tom>
+ <a href="https://github.com/TomChamber/BREEZE.git" target"_blank">https://github.com/TomChamber/BREEZE.git</a>
+  </li>
+                                                                  
+<li>
+ <Aytraan>                                                              
+<a href="https://ayrtaansadirov.github.io/studentprofile" target"_blank>https://ayrtaansadirov.github.io/studentprofile</a>
+      </li>
 
 https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/
 
