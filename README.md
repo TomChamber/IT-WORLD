@@ -14,7 +14,7 @@
   
   <div class="group">
     <ul>
-      <li><a href="team-profile" class"group1>Personal Info</a></li>
+      <li><a href="team-profile" class"group1>Team Profile</a></li>
       <li><a href="group-Website" class"group2>Group Website</a></li>
       <li><a href="industy-data" class"group3>Industy Data</a></li>
       <li><a href="it-work" class"group4>IT Work<a/><li>
