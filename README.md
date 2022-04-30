@@ -51,7 +51,8 @@
    <a id="team-profile"></a>
    <div class="team-profile">
    <h2>Team Profile</h2>
-    <p> For our project we have decided as a group that we are gonna be creating a food app that allow people to locate resturanrt around there area 
+    <p> For our project we have decided as a group that we are gonna be creating a food app that allow people to locate resturanrt around there area. </p>
+    </div>
     
       
        
