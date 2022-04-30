@@ -13,12 +13,12 @@
   
   <div class="group">
     <ul>
-      <li><a href="team-profile" class"group1>Personal info</a></li>
-        <li><a href="group-Website" class"group2>Group Website</a></li>
-      <li><a href="industy-data" class"group4>Industy data</a></li>
-        <li><a href="it-work" class"group5>IT Work<a/><li>
-        <li><a href="it-technologies" class"group6>IT technologies<a/></li>
-          <li><a href="reference" class"group7>reference<a/></li>
+      <li><a href="team-profile" class"group1>Personal Info</a></li>
+      <li><a href="group-Website" class"group2>Group Website</a></li>
+      <li><a href="industy-data" class"group3>Industy Data</a></li>
+      <li><a href="it-work" class"group4>IT Work<a/><li>
+      <li><a href="it-technologies" class"group5>IT Technologies<a/></li>
+      <li><a href="reference" class"group6>Reference<a/></li>
         </ul>
           
     
