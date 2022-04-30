@@ -1,4 +1,3 @@
-
 # By-Friday25
 
 # Team Profile 
