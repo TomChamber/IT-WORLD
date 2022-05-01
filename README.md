@@ -214,7 +214,7 @@ Anna’s position wildly differs from others in the I.T field. She is constantly
 <a href="https://www.tesla.com/en_au/model3" target"_blank>https://www.tesla.com/en_au/model3</a>
 </li>
                                                     
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smartcitiesworld.net%2Fopinions%2Fopinions%2Fdriving-autonomous-vehicles-forward-with-intelligent-infrastructure&psig=AOvVaw26MFmwbP67sxMn8yTRLRCJ&ust=1651474064271000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDWkr_avfcCFQAAAAAdAAAAABAP" />      
+ <img src="https://scwcontent.affino.com/AcuCustom/Sitename/DAM/014/Autonomous-vehicle-AdobeStock_174958313_rm.png"/>      
                                                    
                                                     
                                                     
@@ -243,6 +243,15 @@ In my day to day life, an autonomous vehicle can be a drastic improvement in ter
 <li>                                                                                                                         
 <a href="https://makeymakey.com/products/makey-makey-kit" target"_blank>https://makeymakey.com/products/makey-makey-kit</a>
 </li>
+
+ <img src="https://www.howtogeek.com/wp-content/uploads/2022/02/raspberry_pi_4_and_logo_hero.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1" width="250" height="250"/>
+ 
+ <img src="https://content.arduino.cc/assets/arduino_logo_1200x630-01.png" width="250" height="250"/>
+ 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPK0h6NoxSvsyw0mPswR8lxQQrlWDmx_4BA&usqp=CAU" width="250" height="250"/>
+ 
+ 
+
 
 <p> Raspberry Pi, Arduino and Makey Makey are all advanced electronic hardware kits that are easily accessible to almost anyone. All of them achieve similar goals but some can accomplish more advanced/complicated tasks than others. Makey Makey is straightforward and easier to learn, while Raspberry Pi and Arduino are more advanced. Raspberry Pi and Arduino allow for users to create their own devices and develop their own software and programs to enhance their lives.
 
