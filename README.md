@@ -10,20 +10,21 @@
 <body>
   
   <div class="group">
-    <ul>
+    <ul>      
       <li><a href="team-profile"class"group1>Team Profile</a></li>
       <li><a href="group-Website"class"group2>Group Website</a></li>
       <li><a href="industy-data"class"group3>Industy Data</a></li>
       <li><a href="it-work"class"group4>IT Work<a/><li>
       <li><a href="it-technologies"class"group5>IT Technologies<a/></li>
-      <li><a href="reference" class"group6>Reference<a/></li>
-      </ul>
+      <li><a href="reference" class"group6>Reference<a/></li>       
+      </ul> 
       </div>
     <header>
           <div class="name>
-                      <h1> Team Firday</h1>
-                      </div>
-                      <div class="details">
+                      
+     <h1> Team Firday </h1>
+     </div>
+     <div class="details">
       <p>
       Student ID: s3946048
       <br> Email: s3946048@student.rmit.edu.au
@@ -120,42 +121,103 @@
 <div class="Industry-Data"
      <a id="Industy-Data"'></a>
   <h2>Industry Data</h2>
+  <h3> Job titles: </h3>
+<p> 
   
+- Website Developer
+         
+-	Python Software’s Developer
+         
+-	Cyber security / Threat Analysis
+         
+-	Software Engineer
+         
+-	IT Technician  
   
+ </p>
   
+  <img src="https://user-images.githubusercontent.com/101620168/166138818-ce73fa88-8ed5-4a7f-89cc-07c9d640e0b0.png"/> 
+  <h3> Skill requirement: </h3>
+  <h4> General skills </h4>
   
+ <p> 
+- Strong communication skills
   
+- Accuracy and attention to detail
   
+- Teamwork
   
+- Organizational and time management skills
   
+- Problem-solving skills
   
+ <h4>IT Specific skills </h4>
   
+-	Knowledgeable in front-end technologies such as JavaScript
   
+-	Knowledgeable in coding languages such as Python, C++, and C#
   
+-	Project management
   
+-	Technical support
   
+-	Website production
+  </p>
   
+  <h3> 3.	How do the IT-specific skills in your skill required set rank in terms of demand from employers?  </h3>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <h5> Based on the research “Labour Insight Jobs” of Burning Glass Technologies, my group required skills set are ranked as follows: </h5>
+  <img src="https://user-images.githubusercontent.com/101620168/166138835-bab61365-ed62-414e-a484-338e47522d5f.png"/>
+ 
+ <h3> 4.	How do the general skills in your required skill set rank in terms of demand from employers? </h3>
+ 
+ <img src="https://user-images.githubusercontent.com/101620168/166138818-ce73fa88-8ed5-4a7f-89cc-07c9d640e0b0.png"/>
+ 
+ <h3> 5.	What are the 3 highest ranked IT specific skills which are not in your required skill set? </h3>
+ 
+- Microsoft Windows
 
+-	Technical Support
 
+-	Microsoft C#
 
+<h3> 6.	What are the 3 highest ranked general skills which are not in your required skill set? </h3>
+
+-	Writing
+
+-	Trouble shooting
+
+-	Planning
+
+<h3> 7.	Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not? </h3>
+
+<h4> Andrew: </h4>
+<p> -	Having looked at the data, I’ve decided to keep my ideal job as a software developer. But instead of Python, I’ll focus on Java instead as Java developers are in higher demand than Python </p>
+
+<h4> Sahan: </h4> 
+<p> -	After looking at the data from burning glass technologies, i have started expanding my horizons by thinking about jobs such as a graphic designer and network engineer since they are in high demand. I will take these careers into account along with my original ideal job as a cybersecurity analyst as they seem interesting and important to the information technology industry. </p>
+
+<h4> Ayrtaan: </h4>
+<p> -	After looking at the burning glass data, I started thinking about broadening my search of jobs in I.T past Cyber-Security. I was surprised at how Graphic Design was so high in demand, and I've decided to learn codes such as Java as Java developers are also high in demand. </p>
+
+<h4> Tom: </h4>
+<p> -	After looking at the data from the burning glass technologies. I see that my original desire Job is still the Job I want to pursue as a future career, and I'll continue to focus on web design and to further improve and study the concept of new design which I will use in the future, while still considering different career path like cybersecurity and data analyst. </p>
+
+<h4> Tri: </h4>
+<p> -	After considering the Burning Glass’s data, I am convinced to continue to pursue a career in software engineering. This is due to the high demand from the labor market, which may be accompanied by bright job prospects. Also, I believe that learning front-end technologies is useful for me to succeed in the IT industry because knowledge in those technologies is so highly valued and strongly demanded by employers. </p>
+
+</div>
 
 
   <div class="IT Work"
      <a id="IT Work"'></a>
   <h2>IT Work</h2>
   <p><h4> Soruces </h4></p>
-  https://www.youtube.com/playlist?list=PLxz2FwEzzsxL7TPm-JVIFrAuDXKy6onGF
+  
+<li>                                                                                                                         
+<a href="https://www.youtube.com/playlist?list=PLxz2FwEzzsxL7TPm-JVIFrAuDXKy6onGF"target"_blank>https://www.youtube.com/playlist?list=PLxz2FwEzzsxL7TPm-JVIFrAuDXKy6onGF</a>
+</li>
+                                                                                       
   
   <h3> Zach </h3>
   <img src="https://www.defencejobs.gov.au/-/media/DFR/DJ/A/7/3/information-systems-technician1200x900.jpg?la=en" width="872" height="321"/>
