@@ -214,6 +214,11 @@ Anna’s position wildly differs from others in the I.T field. She is constantly
 <a href="https://www.tesla.com/en_au/model3" target"_blank>https://www.tesla.com/en_au/model3</a>
 </li>
                                                     
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smartcitiesworld.net%2Fopinions%2Fopinions%2Fdriving-autonomous-vehicles-forward-with-intelligent-infrastructure&psig=AOvVaw26MFmwbP67sxMn8yTRLRCJ&ust=1651474064271000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDWkr_avfcCFQAAAAAdAAAAABAP" />      
+                                                   
+                                                    
+                                                    
+                                                    
  <p> Autonomous vehicles are vehicles that are capable of driving itself with little to no input or attention from the driver. These vehicles 'rely on sensors, actuators, complex algorithms, machine learning systems, and powerful processors to execute software' (Synopsys n.d.). 
 
 The most known brand for autonomous vehicles is Tesla, whose vehicles also all completely run on electricity instead of traditional petrol. Their cars are able to drive completely on their own, meaning the driver can simply relax inside, watch a movie, read or book, or even take a nap. They are also significantly more quiet than traditional petrol cars that use engines. This is due to the fact that Tesla cars run on electric motors with rechargeable batteries. And because they run on electricity, they are also more eco-friendly since there will be no carbon emissions from the exhaust. In addition to that, they are also potentially safer because technology is more consistent than humans, who are more unpredictable. According to the World Health Organisation (2021), 'approximately 1.3 million people die each year as a result of road traffic crashes'. Tesla's latest model, the 'Model 3', is said to ensure the highest amount of safety for the passengers with 'an ANCAP 5-star safety rating overall and in every category' (Tesla, Inc. n.d.). In the future, electric autonomous vehicles will likely become more accessible, meaning that there will potentially be a reduction in road accidents and a reduction in carbon air pollution. 
