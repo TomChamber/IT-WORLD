@@ -121,6 +121,31 @@
      <a id="Industy-Data"'></a>
   <h2>Industry Data</h2>
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
@@ -276,6 +301,7 @@ His position differs from other I.T professionals as he works for a smaller comp
 </p>
 
 <h3>Cybersecurity</h3>
+
 <h3>something</h3>
 
 </div>
@@ -288,10 +314,7 @@ His position differs from other I.T professionals as he works for a smaller comp
                                                     
                                                     
                                                     
-                                                    
-                                                    
-                                                    
-                                                    
+                                                                                                
 <div class="Project Idea"
      <a id="Project Idea"'></a>
   <h2>Project Idea</h2>
