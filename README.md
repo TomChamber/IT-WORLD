@@ -299,7 +299,7 @@ His position differs from other I.T professionals as he works for a smaller comp
 
 <div class="Refernce"
      <a id="refernce"'></a>
-  <h2>refernce</h2>
+  <h2>Refernce</h2>
 
 
 
