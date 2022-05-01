@@ -207,6 +207,9 @@
 <h4> Tri: </h4>
 <p> -	After considering the Burning Glass’s data, I am convinced to continue to pursue a career in software engineering. This is due to the high demand from the labor market, which may be accompanied by bright job prospects. Also, I believe that learning front-end technologies is useful for me to succeed in the IT industry because knowledge in those technologies is so highly valued and strongly demanded by employers. </p>
 
+Tommy:
+<p> -After looking at the Burning data, I would still want to do something related to PC's and rerparing or making them as it is a job I know I would enjoy. This descion is due to me not wanting to waste my time doing something I do not enjoy and would much rather invest my time doing something I really enjoy. All though this choice might make less money than the other and more demanding ones, it is still comfortable income.
+
 </div>
 
 
@@ -370,9 +373,37 @@ His position differs from other I.T professionals as he works for a smaller comp
 <p> In the years to come, these technologies will allow almost everyone to learn computing, whether it be advanced or easy. People may eventually develop ground-breaking devices that can change people's lives. This will definitely impact our world, where technology is becoming more advanced, and people will be able to create and develop new projects and ideas. In a similar way, this can also affect my life in the same way it will affect other people's lives. Minor inconveniences can be resolved or tasks can be made easier through the usage of these technologies. 
 </p>
 
+
+
 <h3>Cybersecurity</h3>
 
-<h3>something</h3>
+ <p> Cybersecurity is the approach to protecting and recovering networks, computer systems, programmes, and devices from all types of cyber-attacks. Cybersecurity is critical in any business because information must be kept secure at all times to avoid information leakage to attackers. Cyber-attacks are a growing and evolving threat to sensitive data, with attackers employing new techniques powered by artificial intelligence and social engineering to circumvent traditional data protection controls. Because relying solely on firewalls and antivirus software is unreliable, it is critical to have adequate cybersecurity in place at a business or location where sensitive information must be kept secure.</p>
+  
+<p>The top cybersecurity service providers are Symantec, Cisco, Palo Alto Networks, Mcafee, and Check Point Software. These companies are world leading in enterprise-grade cybersecurity and they use state-of-the-art technology to provide protection. For instance, they protect data through cloud, infrastructure, and endpoints. Services that they provide include: endpoint security, email security and cloud security, which are all important for a business to have. 
+
+There are different types of methods that are used to protect computing resources from being disrupted.  Examples of cybersecurity include: encryption, authentication, authorization, network security, sandboxing, internal controls, security by design, secure coding, secure testing, defence in depth, physical security, audit trail, defensive computing, non-repudiation, security infrastructure, monitoring, vulnerability management and response to breaches.
+
+ There are many benefits to cybersecurity. For instance, there is improved recovery time after a breach. This is helpful because it ensures that the attack will not do as much damage to the business if there were no cybersecurity measures in place. The business will be able to recover quickly and continue their day-to-day matters as per usual. Another benefit is that there is enhanced confidence in the credibility and reputation of a company. This would help the company trust their developers, partners, customers, stakeholders, and employees. 
+  
+There will be some potential impacts of cybersecurity in the future. Cybersecurity will ensure that companies' data will be protected from outside threats. As the amount of businesses in the world continues to grow, the demand for cybersecurity specialists will increase. Cybersecurity specialists are people that are held accountable for providing security for software and networks. They have to search for any possible risk in software and hardware systems and ensure they are eradicated. This will create an immense amount of jobs and help decrease unemployment in the future. As time goes on, newer methods of cybersecurity could be developed and implemented into ensuring data security of businesses across the world.  Companies will need to pay these cybersecurity specialists, therefore the need for a cybersecurity specialist  will result in companies having to spend money on these said specialists. Although the companies will have to spend money on the cybersecurity specialists, it will help them be successful in the long term, because their data will be secured. 
+  
+Although speculated by many, cybersecurity jobs are not likely to be automated in the distant future, and it is believed to be one of the most desirable careers. As technology improves every day,  cybersecurity will also improve. Cyber security applications will also improve as they will likely have enhanced features and capabilities which will ensure that data gets protected. 
+  
+I believe cybersecurity will have some effect on my daily life. My ideal job is a position as a cybersecurity analyst, so I would definitely be content with the creation of more jobs for the cybersecurity field within the information technology industry. Cybersecurity is very important and I believe that confidential information and data  must not be leaked. For my friends and family, it is important that they practise cybersecurity, by making even small changes to their daily life. To give an example, a friend could install antivirus and antispyware programs in order to detect, prevent and take action against malicious software in their computer. They could also install a firewall to avoid unauthorised access into or out of their computer network. They could also use Virtual Private Networks so that they can hide their IP address and personal data on Wi-Fi networks. 
+
+
+
+
+
+
+<h3>Clouds, Servers, Services </h3>
+
+
+
+
+
+
+
 
 </div>
 
