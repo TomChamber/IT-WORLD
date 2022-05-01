@@ -133,6 +133,9 @@
   https://www.youtube.com/playlist?list=PLxz2FwEzzsxL7TPm-JVIFrAuDXKy6onGF
   
   <h3> Zach </h3>
+  <img src="https://www.defencejobs.gov.au/-/media/DFR/DJ/A/7/3/information-systems-technician1200x900.jpg?la=en" width="872" height="321"/>
+  
+  
   <p>In the field of Information Technology, Zach works for a hospital as an Information Systems Technician where he helps support close to 2000 people and over 1000 devices.
 
 Some of the things that he does on a day to day basis includes general help desk ticketing management, Active Directory management, group policy management, and imaging using Microsoft Deployment Tool-kit. 
@@ -145,6 +148,7 @@ Compared with other I.T professionals, Zach’s position has him being more acti
 </p>
 
 <h3> Peter Wealick </h3>
+<img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d4826836fe398d77f1fb8d9_computer-network-technician.jpg" />
 <p>Peter is a computer network technician. His position typically has him working on networks, hardware, software and computer equipment.  Examples of these could be;  deploying a new workstation, fixing a wireless access point, replacing a printer/fixing a printer problem. A normal work day would have him check the monitoring and reporting service that they use for any occurrences of outages overnight, and then he would take any tickets that have been left-over from the other day and prioritize his work. 
 
 He often interacts with service providers for support with Xerox machines, and would often have to go on site to call a customer to arrange that they're there.  However, being on site is hard as he needs to make sure he isn’t interrupting any work that's currently being done. 
@@ -155,6 +159,8 @@ His position differs from other I.T professionals as he works for a smaller comp
 </p>
 
 <h3> Paray </h3>
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2016/08/IT-Professional.jpg" width="872" height="321"/>
+
 <p> Paray is an I.T professional in the United Kingdom. He works for the company NHS as an I.T support technician. He moved to the U.K from Nigeria for education purposes, and now has a job there.
 
 His work typically involves fixing and replacing various computer parts such as monitors. He doesn’t seem to interact with clients or the general public much, only really talking to other I.T professionals and supervisors. 
@@ -165,6 +171,8 @@ Paray’s position in I.T is a very typical one, something you’d immediately t
 </p>
 
 <h3> Chris Mendez </h3>
+<img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d5bb5c4ea4b9e0a7a1fac79_io-network-engineer.jpg" width="872" height="321"/>
+
 <p> Chris Mendez is a network engineer that works for NexGenT. 
 
 First thing he likes to do in a day is to make sure there isn’t anything wrong with the switch stack, like amber lights being on or lights flickering. He also occasionally does help desk duties. He is also tasked with installing new Cisco switches. 
@@ -179,6 +187,8 @@ Compared to other I.T professionals, Chris has a more diverse background due to 
 </p>
 
 <h3> Anna </h3>
+<img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d95f30e6593e813b1ce585d_field-engineer.jpg" width="872" height="321"/>
+
 <p> Anna is a Field Technician for Spectrum. Her position has her do cable installations, internet installations and phone installations. She is off-site, outside in various weather conditions to do her job. 
 
 She is constantly learning, doing something new and has a rapidly changing environment, never being the same. 
