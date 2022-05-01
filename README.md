@@ -221,6 +221,7 @@
   
   <h3> Zach </h3>
   <img src="https://www.defencejobs.gov.au/-/media/DFR/DJ/A/7/3/information-systems-technician1200x900.jpg?la=en" width="872" height="321"/>
+   <img src="https://user-images.githubusercontent.com/101620168/166140014-85e2a50b-bf9e-4985-9052-e1872955dcc6.png"width= "250" height="250"/>
   
   
   <p> In the field of Information Technology, Zach works for a hospital as an Information Systems Technician where he helps support close to 2000 people and over 1000 devices.</p>
@@ -236,6 +237,8 @@ He works in a Windows 7 operated environment at the time of the video, and was u
 
 <h3> Peter Wealick </h3>
 <img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d4826836fe398d77f1fb8d9_computer-network-technician.jpg" />
+ <img src="https://user-images.githubusercontent.com/101620168/166140023-18965be5-e802-4c23-8d64-ef7ccabdb3bc.PNG"width= "250" height="250"/>                                                                                                                                    
+                                                                                                                                    
 <p>Peter is a computer network technician. His position typically has him working on networks, hardware, software and computer equipment.  Examples of these could be;  deploying a new workstation, fixing a wireless access point, replacing a printer/fixing a printer problem. A normal work day would have him check the monitoring and reporting service that they use for any occurrences of outages overnight, and then he would take any tickets that have been left-over from the other day and prioritize his work. 
 
 He often interacts with service providers for support with Xerox machines, and would often have to go on site to call a customer to arrange that they're there.  However, being on site is hard as he needs to make sure he isn’t interrupting any work that's currently being done. 
@@ -247,6 +250,8 @@ His position differs from other I.T professionals as he works for a smaller comp
 
 <h3> Paray </h3>
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2016/08/IT-Professional.jpg" width="872" height="321"/>
+  <img src="https://user-images.githubusercontent.com/101620168/166140055-2efce70e-62d2-4213-b210-120abd540208.png" width= "250" height="250"/>
+  
 
 <p> Paray is an I.T professional in the United Kingdom. He works for the company NHS as an I.T support technician. He moved to the U.K from Nigeria for education purposes, and now has a job there.</p>
 
@@ -259,6 +264,7 @@ His position differs from other I.T professionals as he works for a smaller comp
 
 <h3> Chris Mendez </h3>
 <img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d5bb5c4ea4b9e0a7a1fac79_io-network-engineer.jpg" width="872" height="321"/>
+  <img src="https://user-images.githubusercontent.com/101620168/166139972-06299c41-8802-4bb2-a821-9d9c714e5a05.png" width= "250" height="250"/>
 
 <p> Chris Mendez is a network engineer that works for NexGenT.</p> 
 
@@ -275,6 +281,7 @@ His position differs from other I.T professionals as he works for a smaller comp
 
 <h3> Anna </h3>
 <img src="https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d95f30e6593e813b1ce585d_field-engineer.jpg" width="872" height="321"/>
+  <img src="https://user-images.githubusercontent.com/101620168/166140072-ce22ef09-e102-4f03-b295-f08dc77e6674.PNG" width= "250" height="250"/>
 
 <p> Anna is a Field Technician for Spectrum. Her position has her do cable installations, internet installations and phone installations. She is off-site, outside in various weather conditions to do her job. </p> 
 
