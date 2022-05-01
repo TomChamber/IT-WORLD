@@ -207,7 +207,7 @@
 <h4> Tri: </h4>
 <p> -	After considering the Burning Glass’s data, I am convinced to continue to pursue a career in software engineering. This is due to the high demand from the labor market, which may be accompanied by bright job prospects. Also, I believe that learning front-end technologies is useful for me to succeed in the IT industry because knowledge in those technologies is so highly valued and strongly demanded by employers. </p>
 
-Tommy:
+<h4> Tommy: </h4>
 <p> -After looking at the Burning data, I would still want to do something related to PC's and rerparing or making them as it is a job I know I would enjoy. This descion is due to me not wanting to waste my time doing something I do not enjoy and would much rather invest my time doing something I really enjoy. All though this choice might make less money than the other and more demanding ones, it is still comfortable income.
 
 </div>
@@ -376,6 +376,7 @@ His position differs from other I.T professionals as he works for a smaller comp
 
 
 <h3>Cybersecurity</h3>
+ <img src=https://s27389.pcdn.co/wp-content/uploads/2021/04/creating-rolling-out-effective-cyber-security-strategy-1024x440.jpeg.optimal.jpeg width="250" height="250"/>
 
  <p> Cybersecurity is the approach to protecting and recovering networks, computer systems, programmes, and devices from all types of cyber-attacks. Cybersecurity is critical in any business because information must be kept secure at all times to avoid information leakage to attackers. Cyber-attacks are a growing and evolving threat to sensitive data, with attackers employing new techniques powered by artificial intelligence and social engineering to circumvent traditional data protection controls. Because relying solely on firewalls and antivirus software is unreliable, it is critical to have adequate cybersecurity in place at a business or location where sensitive information must be kept secure.</p>
   
@@ -393,6 +394,8 @@ His position differs from other I.T professionals as he works for a smaller comp
 
 
 <h3>Clouds, Servers, Services </h3>
+
+<img src="https://qph.fs.quoracdn.net/main-qimg-33ef3fc154eb96f184019ae2cd941ada" width="250" height="250"/>
 
 <p> A cloud server is a centralised virtual server that runs in a cloud computing environment rather than a physical server. It is built, hosted, and delivered over the internet via a cloud computing platform and can be remotely accessed. Cloud servers are self-contained units that contain all of the software needed to function.  These servers are to be accessed on demand by their users. The term "cloud" refers to a collection of internet-connected servers that can be leased as part of a software or application service. Web hosting, data hosting and sharing, and software use are all examples of cloud-based services. Although being a cloud server, it can still perform similar functions to a conventional physical server. </p> 
 
