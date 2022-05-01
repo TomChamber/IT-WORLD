@@ -49,9 +49,9 @@
       Email: s3948171 @student.rmit.edu.au
                                           </p>
                                           <p> 
-      Student ID: 
+      Student ID: s3942383
       <br>
-      Email: @student.rmit.edu.au
+      Email: s3942383@student.rmit.edu.au
                                           </p>
    </div>
  </header>
@@ -109,8 +109,8 @@
 <Tri>                                                              
 <a href="https://github.com/S3947389/Tri-assignment-.git" target"_blank>https://github.com/S3947389/Tri-assignment-.git</a>
 </li>
-<li>
                                                                  
+<li>                                                                
 <Tommy>                                                              
 <a href="https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/" target"_blank>https://tommyrmit1.github.io/INTRO-TO-IT-PROJECT-UNO/</a>
 </li>
@@ -129,7 +129,9 @@
   <div class="IT Work"
      <a id="IT Work"'></a>
   <h2>IT Work</h2>
-  <p> Sources </p>
+  <p><h4> Soruces </h4></p>
+  https://www.youtube.com/playlist?list=PLxz2FwEzzsxL7TPm-JVIFrAuDXKy6onGF
+  
   <h3> Zach </h3>
   <p>In the field of Information Technology, Zach works for a hospital as an Information Systems Technician where he helps support close to 2000 people and over 1000 devices.
 
@@ -191,60 +193,86 @@ Anna’s position wildly differs from others in the I.T field. She is constantly
 
 
 
-
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
 <div class="IT technologies"
      <a id="IT technologies"'></a>
   <h2>IT technologies</h2>
   
+  
+  <h3>Autonomous cars</h3>
+  <p><h4>Sources</h4></p>
+  
+<li>                                                                                                                         
+<a href="https://www.synopsys.com/automotive/what-is-autonomous-car.html" target"_blank>https://www.synopsys.com/automotive/what-is-autonomous-car.html</a>
+</li>
+                                                                   
+<li>                                                                                                                         
+<a href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries" target"_blank>https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
+</a>
+</li>
 
-#### Cybersecurity 
+<li>                                                                                                                         
+<a href="https://www.tesla.com/en_au/model3" target"_blank>https://www.tesla.com/en_au/model3</a>
+</li>
+                                                    
+ <p> Autonomous vehicles are vehicles that are capable of driving itself with little to no input or attention from the driver. These vehicles 'rely on sensors, actuators, complex algorithms, machine learning systems, and powerful processors to execute software' (Synopsys n.d.). 
 
-#### Raspberry pis
+The most known brand for autonomous vehicles is Tesla, whose vehicles also all completely run on electricity instead of traditional petrol. Their cars are able to drive completely on their own, meaning the driver can simply relax inside, watch a movie, read or book, or even take a nap. They are also significantly more quiet than traditional petrol cars that use engines. This is due to the fact that Tesla cars run on electric motors with rechargeable batteries. And because they run on electricity, they are also more eco-friendly since there will be no carbon emissions from the exhaust. In addition to that, they are also potentially safer because technology is more consistent than humans, who are more unpredictable. According to the World Health Organisation (2021), 'approximately 1.3 million people die each year as a result of road traffic crashes'. Tesla's latest model, the 'Model 3', is said to ensure the highest amount of safety for the passengers with 'an ANCAP 5-star safety rating overall and in every category' (Tesla, Inc. n.d.). In the future, electric autonomous vehicles will likely become more accessible, meaning that there will potentially be a reduction in road accidents and a reduction in carbon air pollution. 
 
-#### Arduino & makey makey
+The major impact of autonomous vehicles would be quality of life. It will make getting from one location to another much easier as you wouldn't have to manually drive the car. This would especially benefit elderly people the most who may have difficulty with driving due to complications such as poor eyesight or movement. Carbon emissions could be reduced as there would be less usage of petrol. As autonomous vehicles are closely related to electric vehicles, the switch from petrol/oil to electric will overall benefit us in the long run as oil is a limited resource on our planet. 
 
-#### autonomous cars
+In my day to day life, an autonomous vehicle can be a drastic improvement in terms of convenience and overall quality of life. Similarly, having a regular car is convenient enough to get to places instead of having to rely on public transport, autonomous cars will have essentially the same benefit but with much less effort. Of course, you would still have to pay attention to the road and your surroundings, but not as much as when you're manually driving a car.
+ </p>                                                   
+                                                    
+                                                    
+                                                    
+<h3>Raspberry pis, Arduino & makey makey</h3>
+                                                    
+ <li>                                                                                                                         
+<a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target"_blank>https://www.raspberrypi.com/products/raspberry-pi-4-model-b/</a>
+</li>
 
+<li>                                                                                                                         
+<a href="https://www.arduino.cc/en/hardware" target"_blank>https://www.arduino.cc/en/hardware</a>
+</li>
 
+<li>                                                                                                                         
+<a href="https://makeymakey.com/products/makey-makey-kit" target"_blank>https://makeymakey.com/products/makey-makey-kit</a>
+</li>
 
+<p> Raspberry Pi, Arduino and Makey Makey are all advanced electronic hardware kits that are easily accessible to almost anyone. All of them achieve similar goals but some can accomplish more advanced/complicated tasks than others. Makey Makey is straightforward and easier to learn, while Raspberry Pi and Arduino are more advanced. Raspberry Pi and Arduino allow for users to create their own devices and develop their own software and programs to enhance their lives.
+
+Raspberry Pi's 4th model is their latest model and is described as 'your tiny, dual-display, desktop computer…and robot brains, smart home hub, media centre, networked AI core, factory controller, and much more' (Raspberry Ltd n.d.). It is great for performing multiple tasks, controlling complex robots, playing videos, connecting to the internet, etc. Unlike their previous models, this one is built with a 'complete desktop experience' (Raspberry Ltd n.d.) that can run with dual-desktop in 4K. And like their previous models, it can also be used for other projects such as making whole new devices.
+
+Arduino has an extensive collection of products under varying categories, where each specialise in their own thing and have their own advantages over other models. Instead of a single board computer like the Raspberry Pi, Arduino is instead a microcontroller. Therefore they are good for repetitive tasks such as turning the lights on and off, opening and closing the garage door, reading the temperature from sensors, etc. Arduino offers kits that contain a multitude of their products to get users started with learning computing. According to Arduino Hardware (n.d.), all their products go under a certain family such as the 'Nano Family', 'MKR Family' and 'Classic Family'. Each of these families have their own uses and advantages over one another, but none of them make another redundant or useless.
+
+'Makey Makey Classic' is Makey Makey's most popular product. It is designed for users aged eight and up and allows for them to turn any everyday object into computer keys and/or controllers. Unlike the other two hardware kits, this one is significantly easier to learn and allows even kids to learn the ideas behind software development and simple computing. 
+
+In the years to come, these technologies will allow almost everyone to learn computing, whether it be advanced or easy. People may eventually develop ground-breaking devices that can change people's lives. This will definitely impact our world, where technology is becoming more advanced, and people will be able to create and develop new projects and ideas. In a similar way, this can also affect my life in the same way it will affect other people's lives. Minor inconveniences can be resolved or tasks can be made easier through the usage of these technologies. 
+</p>
+
+<h3>Cybersecurity</h3>
+<h3>something</h3>
+
+</div>
+
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
 <div class="Project Idea"
      <a id="Project Idea"'></a>
   <h2>Project Idea</h2>
 
 
-<div class="refernce"
+<div class="Refernce"
      <a id="refernce"'></a>
   <h2>refernce</h2>
 
@@ -253,6 +281,22 @@ Anna’s position wildly differs from others in the I.T field. She is constantly
 
 
 
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
 
 
   </main>
