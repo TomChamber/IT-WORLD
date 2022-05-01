@@ -141,6 +141,7 @@
   <h4> General skills </h4>
   
  <p> 
+   
 - Strong communication skills
   
 - Accuracy and attention to detail
